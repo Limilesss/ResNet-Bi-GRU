@@ -1,1 +1,0 @@
-# ResNet-Bi-GRU
